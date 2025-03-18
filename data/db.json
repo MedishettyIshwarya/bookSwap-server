@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "ishu",
+      "email": "2211CS030114@mallareddyuniversity.ac.in",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 1
+    },
+    {
+      "name": "Dineshkumar",
+      "email": "dk@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 2
+    },
+    {
+      "name": "ishu",
+      "email": "ishumedi@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 3
+    },
+    {
+      "name": "ishu",
+      "email": "2211CS030114@mallareddyuniversity.ac.in",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 4
+    },
+    {
+      "name": "Medishetty Ishwarya",
+      "email": "2211CS030145@mallareddyuniversity.ac.in",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 5
+    },
+    {
+      "name": "sharvani",
+      "email": "abc@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "id": 6
+    }
+  ]
+}
